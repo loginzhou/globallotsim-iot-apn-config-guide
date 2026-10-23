@@ -56,6 +56,11 @@ Set the APN in the router's cellular or WAN settings:
 
 For guides on choosing IoT SIM plans by country and device type, see [globallotsim.com](https://www.globallotsim.com).
 
+## Related tools and guides
+
+- [IoT data usage calculator](https://www.globallotsim.com/iot-data-usage-calculator/) — estimate monthly data per device and per fleet ([source](https://github.com/loginzhou/iot-data-usage-calculator))
+- [IoT SIM for GPS trackers: 30 MB plans, pooled data and APN setup](https://www.globallotsim.com/gps-tracker-sim/)
+
 ## License
 
 MIT
