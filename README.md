@@ -62,6 +62,7 @@ For guides on choosing IoT SIM plans by country and device type, see [globallots
 - [IoT SIM for GPS trackers: 30 MB plans, pooled data and APN setup](https://www.globallotsim.com/gps-tracker-sim/)
 - [2G and 3G shutdowns for GPS trackers](https://www.globallotsim.com/iot-sim-for-gps-trackers-after-2g-3g-shutdown-migration-and-sms-continuity/) — finding 2G-only units, LTE Cat-1/LTE-M replacements, SMS on LTE
 - [5G RedCap vs 4G LTE for IoT devices](https://www.globallotsim.com/iot-sim-for-5g-redcap-devices-vs-4g-lte-cat-4-and-cat-1/) — module cost cuts, field throughput, 5G SA and SIM plan checks
+- [Dual-SIM failover for industrial edge gateways](https://www.globallotsim.com/dual-sim-failover-zero-downtime-industrial-edge-gateway/) — switch rules, carrier diversity, back-off after outages and a recovery-time test plan
 
 ## License
 
